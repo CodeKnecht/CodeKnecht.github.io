@@ -46,4 +46,6 @@ Zum speichern des Spielstands benötigt der Browser LocalStorage Unterstützung.
 
 ## Links
 Github Source: https://github.com/CodeKnecht/codeknecht.github.io
-Lastenheft: [Lastenheft aufrufen](https://github.com/CodeKnecht/codeknecht.github.io/lastenheft.md)
+
+
+Lastenheft: [Lastenheft aufrufen](https://github.com/CodeKnecht/CodeKnecht.github.io/blob/master/lastenheft.md)
