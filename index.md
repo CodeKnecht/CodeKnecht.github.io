@@ -45,4 +45,5 @@ Zum speichern des Spielstands benötigt der Browser LocalStorage Unterstützung.
 * Vincent Beerheide
 
 ## Links
-Github: https://github.com/CodeKnecht/Siedler-von-Aplerbeck
+Github Source: https://github.com/CodeKnecht/codeknecht.github.io
+Lastenheft: (Lastenheft aufrufen)[https://github.com/CodeKnecht/codeknecht.github.io/lastenheft.md]
