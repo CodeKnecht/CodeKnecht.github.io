@@ -1,9 +1,9 @@
 // Resourcen
-var gold = 2000;
-var wood = 2000;
-var stone = 1500;
-var metal = 1000;
-var research = 2000;
+var gold = 20;
+var wood = 20;
+var stone = 20;
+var metal = 20;
+var research = 20;
 
 // Gebäudearten
 var gameObjects = ['farm', 'logger', 'stone', 'iron', 'Kaserne', 'Stallungen', 'Schießstand', 'Sklavenmarkt', 'Soldier', 'university', 'field', 'forest', 'stoneMine', 'ironMine'];
