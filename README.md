@@ -1,4 +1,4 @@
-# Doku
+# Siedler von Aplerbeck - AE Projekt von Alexander Moor, Jan Fahnei, Jens Feldmann und Vincent Beerheide
 
 
 ## Über das Projekt
